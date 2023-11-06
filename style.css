@@ -1,0 +1,11 @@
+#change-mode {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#change-mode i {
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 1.8rem;
+}
